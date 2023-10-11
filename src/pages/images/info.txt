@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: ProzaLibre-Light
+font link: https://fonts.google.com/specimen/Proza+Libre
+font author: Jasper de Waard
+font author site: http://bureauroffa.com/about-proza-libre
+Slogan Font: WorkSans-Light.ttf
+
+icon designer: Mohamed Mb
+icon designer link: /mo.mb
+        
+{"bg":"transparent","icon-gradient-0":"#913C00","icon-gradient-1":"#D9AD76","font":"#000000","slogan":"#141414"}
+      

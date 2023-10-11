@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&family=Rochester&display=swap');
+
+/* colors */
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #183D3D;
+  color: #DCEEF0;
+}
+
+header {
+  background-color: #040D12;
+  border-bottom: 3px solid #5F262F;
+}
+
+.collapse ul>li>a {
+  color: #DCEEF0;
+}
+h1 {
+  font-family: 'Rochester', sans-serif;
+}
+.rickPicture {
+  border-radius: 26% 74% 72% 28% / 41% 38% 62% 59%;
+  box-shadow: 5px 5px 5px #5F262F;
+}
+.form-control {
+  background-color: #070C0F;
+  color: #DCEEF0;
+}
+.submit-btn {
+  background-color: #5F262F;
+  color: #DCEEF0;
+  box-shadow: 0;
+  border: 0;
+}
+
+footer { 
+  background-color: #040D12;
+  border-top: 3px solid #5F262F;
+}
