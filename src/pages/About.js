@@ -20,7 +20,7 @@ export default function About() {
                     who will do what ever it takes to find an answer.
                 </p>
                 <p>
-                    I made my personal portfolio website using HTML, CSS, and Bootstrap.
+                    I made my personal portfolio website using HTML, CSS, Bootstrap, and React.
                 </p>
             </div>
         </section>
